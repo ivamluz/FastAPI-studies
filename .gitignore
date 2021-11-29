@@ -1,0 +1,5 @@
+coverage_html_report/
+venv/
+
+.coverage
+.env
